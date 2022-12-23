@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRickyMorty Application</string>
+    <string name="home_title">Ricky and Morty</string>
+
+    <!-- DetailScreen   -->
+    <string name="first_location">First seen in:</string>
+    <string name="last_location">Last known location:</string>
+    <string name="specie">Specie:</string>
+    <string name="status">Status:</string>
+    <string name="gender">Gender:</string>
+</resources>
